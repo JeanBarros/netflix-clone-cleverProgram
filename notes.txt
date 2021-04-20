@@ -1,0 +1,4 @@
+584347b02682744aece047a5ae4f151b
+https://api.themoviedb.org/3/movie/550?api_key=584347b02682744aece047a5ae4f151b
+
+After creating the project, a git repository was initialized in the project folder automatically.
